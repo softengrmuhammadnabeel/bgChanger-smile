@@ -1,6 +1,6 @@
-# bgChanger Site
+# Change Bg With Smiles
 
-Welcome to the bgChanger site repository! This project is built using Vite, React, and JavaScript. With this project, you can change the background of your site dynamically.
+Welcome to the bgChanger-smile repository! This project is built using Vite, React, and JavaScript. With this project, you can change the background of your site dynamically.
 
 ## Preview
 
@@ -18,7 +18,11 @@ To get started with this project, follow these steps:
 ## Features
 
 - Dynamic Background Change: Change the background of the site with a click.
-- [Add More Features Here...]
+- Hidden Functionality: Explore more hidden features to enhance your experience.
+
+## Hidden Functionality
+
+While the main feature of this project is dynamic background changing, there are hidden functionalities waiting to be discovered. Dive deeper into the code and explore additional features to unlock the full potential of bgChanger.
 
 ## Contributing
 
